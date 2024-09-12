@@ -1,25 +1,25 @@
-# Dejavu ROV - Calculadora de Tempo de Mergulho
+# Dejavu ROV - Dive Time Calculator
+The Dejavu ROV - Dive Time Calculator is a specialized tool designed to help offshore teams accurately calculate the duration of underwater operations performed by Remotely Operated Vehicles (ROVs). This tool is essential for tracking the operating time of ROVs and ensuring efficient management of underwater activities. By entering the start and end date/time of a dive, the calculator quickly computes the total dive duration in hours, minutes, and even days.
 
-A ROV Calculadora de Tempo de Mergulho é uma ferramenta desenvolvida para calcular a duração de operações subaquáticas conduzidas por ROVs (Veículos Operados Remotamente) em ambientes offshore. A aplicação é voltada para equipes que necessitam registrar e calcular, com precisão, o tempo de mergulho entre dois momentos distintos (data e hora). Esse cálculo é essencial para monitorar o tempo de operação dos equipamentos subaquáticos e otimizar a gestão das atividades.
+Features
+Dive Duration Calculation: Simply input the start and end date/time, and the tool automatically calculates the total dive duration in hours and minutes.
+User-Friendly Interface: Developed with HTML, CSS, and JavaScript, the interface is simple and intuitive, designed to optimize the time spent on daily offshore operations.
+Cross-Platform Compatibility: Accessible from any modern browser, this tool works seamlessly on multiple devices, including desktops, laptops, and tablets used in remote work environments.
+Interactive Shortcut Icon: In addition to the "Calculate" button, the interface includes an interactive icon resembling a thruster, providing a more engaging user experience.
+Technologies Used
+HTML: Provides the structure of the application interface.
+CSS: Styles the interface, making it visually appealing and organized.
+JavaScript: Handles the dive duration calculations based on the input provided.
+How to Use
+Enter the start date and time of the dive in the first field.
+Enter the end date and time in the corresponding field.
+Click the "Calculate" button or use the thruster icon to compute the total dive duration.
+The tool will display the dive time in days, hours, and minutes.
+This application can be used to calculate any duration between two moments, and it is not limited to the context of underwater operations.
 
-Funcionalidades
-Cálculo de Duração do Mergulho: A ferramenta permite inserir a data e hora de início e término do mergulho e, com um simples clique, calcula automaticamente a duração total em horas e minutos.
-Interface Simples e Intuitiva: Desenvolvida com HTML, CSS e JavaScript, a interface gráfica é amigável e permite uma utilização rápida, otimizando o tempo durante as atividades diárias offshore.
-Cross-Platform: Pode ser utilizada em qualquer navegador moderno, tornando-a acessível em múltiplas plataformas, como desktops, laptops ou tablets utilizados em ambientes de trabalho remotos.
-Ícone de Atalho: Além do botão "Calcular", a interface também inclui um ícone visual relacionado a um thruster, permitindo uma experiência de usuário mais interativa.
-Tecnologias Utilizadas
-HTML: Estrutura a interface da aplicação.
-CSS: Aplica estilos à interface, tornando a visualização mais agradável e organizada.
-JavaScript: Responsável por todo o cálculo da duração com base nos inputs fornecidos.
-Como Usar
-Insira a data e hora de início do mergulho no primeiro campo.
-Insira a data e hora de término no campo correspondente.
-Clique no botão "Calcular" ou no ícone de thruster para obter a duração total entre os dois momentos.
-A aplicação pode ser usada para qualquer cálculo de duração entre duas datas e horas, não se limitando apenas ao contexto de operações subaquáticas.
+Contributions
+This project was developed by Islan Amorim Bezerra to assist ROV teams in calculating dive times more efficiently. Feedback and contributions are encouraged to enhance the functionality and performance of the tool.
 
-Contribuições
-Esse projeto foi criado por Islan Amorim Bezerra para facilitar o trabalho das equipes de ROV no cálculo do tempo de mergulho. Feedbacks e contribuições são sempre bem-vindos para melhorar ainda mais a funcionalidade e a eficiência da ferramenta.
-
-Contato
-Desenvolvedor: Islan Amorim Bezerra
+Contact
+Developer: Islan Amorim Bezerra
 Email: iab@ecomp.poli.br
